@@ -1,3 +1,4 @@
+![Screenshot 2025-06-24 153643](https://github.com/user-attachments/assets/ec6ac803-c98c-454a-80d3-350f65b4cff1)
 # Skill-Based Betting Platform
 
 ## Project Description
